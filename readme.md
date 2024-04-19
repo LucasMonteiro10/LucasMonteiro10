@@ -26,7 +26,7 @@
  # About me
  
 <p>  
-QA Tester | QA Test Automation | Liferay Portal | Cucumber | Selenium | Java | C#
+QA Tester | QA Test Automation | Liferay Portal | Cucumber | Selenium | Java | C# <br><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features <br/><br/>
  📧 &emsp; Reach me anytime: lucasmonteirovilela@hotmail.com <br/><br/>
