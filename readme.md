@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="LucasMonteiro10" />
  </a> 
 </p>
-<br />
 
 <!-- About Section -->
  # About me
