@@ -41,7 +41,8 @@
 
 <br/>
 
-#Metrics
+<!-- Metrics Section -->
+# Metrics
 
 <p align="center">
   <a href="https://github.com/LucasMonteiro10">
