@@ -41,8 +41,8 @@
 
 <br/>
 
-<!-- Metrics Section -->
-# Metrics
+<!-- Statistics for nerds Section -->
+# Statistics for Nerds
 
 <p align="center">
   <a href="https://github.com/LucasMonteiro10">
