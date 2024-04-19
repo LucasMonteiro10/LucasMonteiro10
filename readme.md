@@ -6,7 +6,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Lucas+Monteiro">「 Google Me 」</a>
     <br>
     「 I am a quality assurance analist from <b>Brazil</b> 」
     <br>
