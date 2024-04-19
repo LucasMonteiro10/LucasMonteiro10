@@ -32,8 +32,6 @@
  📧 &emsp; Reach me anytime: lucasmonteirovilela@hotmail.com <br/><br/>
 </p>
 
-<br/>
-
 <!-- Statistics for nerds Section -->
 # Statistics for Nerds
 
