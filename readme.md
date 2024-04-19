@@ -30,8 +30,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: lucasmonteiro@hotmail.com<br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features <br/><br/>
+ 📧 &emsp; Reach me anytime: lucasmonteirovilela@hotmail.com <br/><br/>
 
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/LucasMonteiro10">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMonteiro10&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMonteiro10&theme=radical" alt="Lucas's GitHub Contribution"/>
   </a>
 </p>
 
