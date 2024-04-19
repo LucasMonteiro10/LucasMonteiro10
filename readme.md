@@ -32,7 +32,7 @@
 </p>
 
 <!-- Statistics for nerds Section -->
-# Statistics for Nerds
+# Statistics for nerds
 
 <p align="center">
   <a href="https://github.com/LucasMonteiro10">
