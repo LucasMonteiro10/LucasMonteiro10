@@ -33,10 +33,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
-
-<br/>
 
 <!-- Statistics for nerds Section -->
 # Statistics for Nerds
