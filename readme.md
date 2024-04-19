@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Lucas Monteiro</samp>
+        <samp>&gt; Hello There!, I am Lucas Monteiro</samp>
 </h3>
 
 
