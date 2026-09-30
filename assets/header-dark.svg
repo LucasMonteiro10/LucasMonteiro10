@@ -107,12 +107,12 @@
 
   <!-- Name -->
   <text x="600" y="160" text-anchor="middle" fill="url(#textGrad)" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" letter-spacing="2">
-    AL SIAM
+    LUCAS MONTEIRO
   </text>
 
   <!-- Tagline -->
   <text x="600" y="195" text-anchor="middle" fill="#888888" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" letter-spacing="4">
-    FULL STACK DEVELOPER  ·  OPEN SOURCE  ·  BANGLADESH
+    QUALITY ASSURANCE ENGINEER  ·  TEST AUTOMATION  ·  RECIFE, BRAZIL
   </text>
 
   <!-- Decorative separator -->
@@ -121,7 +121,7 @@
 
   <!-- Version tag -->
   <text x="600" y="255" text-anchor="middle" fill="#444444" font-family="'Courier New', monospace" font-size="11" letter-spacing="2">
-    v2026.03 — crafting digital experiences
+    v2026.09 — quality is not an act, it is a habit
   </text>
 
   <!-- Bottom accent line -->
